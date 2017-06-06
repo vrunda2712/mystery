@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: 1c
+First Choice: Question 1 Choice A
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
